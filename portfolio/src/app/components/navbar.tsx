@@ -4,7 +4,7 @@ import { BsFillMoonStarsFill } from 'react-icons/bs';
 
 export default function Navbar() {
 	return (
-		<nav className='pt-10 mb-12 flex justify-between'>
+		<nav className='pt-10 mb-12 flex justify-between px-5'>
 			<h1 className='text-2xl font-burtons'>Said Mazouz</h1>
 			<ul className='flex items-center'>
 				<li>
